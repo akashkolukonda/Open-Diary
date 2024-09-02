@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Open diary is a website to keep track of your daily events.The users have the ability to
-create posts with texts and images which can be viewed,liked and commented on by other
-users.It is basically a collaborative blogging site.
+Open Diary is a website to keep track of your daily events. The users have the ability to
+create posts with texts and images which can be viewed, liked and commented on by other
+users. It is basically a collaborative blogging site.
 
 ## Tech Stacks
 
